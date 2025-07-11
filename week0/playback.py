@@ -6,6 +6,4 @@ def playback():
     text = text.replace(" ","...")
     print(text)
 
-
-
 playback()
