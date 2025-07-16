@@ -9,7 +9,7 @@ This repo contains my weekly problem set solutions, written in Python, organized
 
 ## 📁 Structure
 week0:(topics:- function, variables)
-   pset0:
+pset0:
    1. indoor voice (indoor.py)
    2. playback speed (playback.py)
    3. making faces (faces.py)
@@ -17,7 +17,7 @@ week0:(topics:- function, variables)
    5. tip calculator (tip.py)
 
 week1 :(topics:- conditionals)
-   pset1:
+pset1:
    1. deep thought (deep.py)
    2. home federal saving bank (bank.py)
    3. file extensions (extensions.py)
@@ -25,6 +25,6 @@ week1 :(topics:- conditionals)
    5. meal time (meal.py)
 
 week2:
-   pset2:
+pset2:
    coming soon.....
    
